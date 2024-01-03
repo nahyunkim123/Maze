@@ -1,0 +1,17 @@
+.wall{
+    background-color: green;
+    color: green;
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    text-align: center;
+}
+
+.cell{
+    color: #333; 
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    text-align: center;
+
+}
